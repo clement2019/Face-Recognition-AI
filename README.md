@@ -1,4 +1,4 @@
-# Face Recognition and Attendance Project
+# Face Recognition and Attendance Project using artifical inteligence Open CV liberaries
 
 [![Watch Video](https://github.com/murtazahassan/Face-Recognition/blob/master/tumbnail.jpg)](https://youtu.be/sz25xxF_AVE)
 
